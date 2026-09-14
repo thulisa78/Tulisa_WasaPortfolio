@@ -20,7 +20,7 @@ const PROJECTS = [
     desc: "A free career platform built to help South African youth break into the job market with confidence. Combines an AI-powered CV builder, interview coach, and mentor     chat with a learnership finder and skills roadmap — giving young job seekers everything they need to go from unsure to job-ready in one place..",
     tech: ["REACT.JS","NEXT.js","TypeScript","Firebase ","Node.js"],
     link: "https://youth-rise.vercel.app/", bgColor: "#141a10",
-    image: "/youth.png",
+    image: "/Youth.png",
   },
     {
     id: "02", category: "FIBRE INTERNET PLATFORM", title: "FTTHSA",
